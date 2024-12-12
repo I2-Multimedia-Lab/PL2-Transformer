@@ -11,6 +11,19 @@ Compile the CUDA layers for [PointNet++](http://arxiv.org/abs/1706.02413), which
 cd modules
 python setup.py install
 ```
+## Core code is coming soon.
+## Datasets
+MSR Thanks to this author (https://github.com/xingyul/meteornet) for providing us with data preprocessing code.
+
+## Train
+### Train medium model
+```
+python train-msr-meduim.py
+```
+### Train full model
+```
+python train-msr-full.py
+```
 ## PIPELINE
 ![pipeline](https://github.com/I2-Multimedia-Lab/PL2-Transformer/blob/main/Pipeline.png)
 ## Visualization of 4D Semantic Segmentation
