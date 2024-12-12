@@ -1,0 +1,6 @@
+# ninja log v5
+0	10985	1701337014331569033	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-3.6/_ext_src/src/ball_query.o	19776501ff84da32
+0	11020	1701337014363567534	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-3.6/_ext_src/src/sampling.o	b5ea2ae57cf0997f
+0	11068	1701337014411565286	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-3.6/_ext_src/src/interpolate.o	38480d0027c902d0
+0	11124	1701337014467562663	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-3.6/_ext_src/src/group_points.o	9283b61a0c97bd19
+0	13740	1701337017083440223	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-3.6/_ext_src/src/bindings.o	4dc14ff13953d920

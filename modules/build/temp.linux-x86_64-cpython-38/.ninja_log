@@ -1,0 +1,10 @@
+# ninja log v5
+1	13757	1722410246448250932	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/ball_query_gpu.o	a87a3fe671b74710
+1	13801	1722410246492249336	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/group_points_gpu.o	5108c5ea577471bc
+1	13849	1722410246540247595	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/interpolate_gpu.o	529c4851e859f2f9
+1	14207	1722410246900234537	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/sampling_gpu.o	70ff1feaa1161727
+1	20002	1722410252684024787	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/interpolate.o	6da4cf6094776215
+1	20159	1722410252840019130	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/group_points.o	c6fa68ca692ca58d
+1	20376	1722410253056011299	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/bindings.o	8ba21fc2702c4269
+1	23825	1722410256507886158	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/sampling.o	5a44a6442b207b77
+0	23879	1722410256559884273	/home/zz/P4Transformer-ours/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/ball_query.o	5efc155d0852cd6b
