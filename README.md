@@ -11,6 +11,8 @@ Compile the CUDA layers for [PointNet++](http://arxiv.org/abs/1706.02413), which
 cd modules
 python setup.py install
 ```
+## PIPELINE
+![pipeline](https://github.com/I2-Multimedia-Lab/PL2-Transformer/blob/main/Pipeline.png)
 ## Visualization of 4D Semantic Segmentation
 ![visualization](https://github.com/I2-Multimedia-Lab/PL2-Transformer/blob/main/experiments_synthia_visualizationV3.jpg)
 ## Related Repos
