@@ -32,7 +32,7 @@ The log has been uploaded!
 ![pipeline](https://github.com/I2-Multimedia-Lab/PL2-Transformer/blob/main/Pipeline.png)
 
 ## Inter-Frame Motion Visualization
-
+![Motion](https://github.com/I2-Multimedia-Lab/PL2-Transformer/blob/main/Img/Fig5V2.png)
 
 ## Visualization of 4D Semantic Segmentation
 ![visualization](https://github.com/I2-Multimedia-Lab/PL2-Transformer/blob/main/experiments_synthia_visualizationV3.jpg)
