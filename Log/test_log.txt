@@ -1,0 +1,8 @@
+[03/29 14:50:54] Two_steamsModel INFO: ===> Loading checkpoint for finetune '/mnt/ssd/zz/P4Transformer-main/model_best(9408).pth'
+[03/29 14:50:58] Two_steamsModel INFO: Test: [0/383]	Batch-Time: 2.130 (2.130)	Loss: 0.0019 (0.0019)	Top1: 100.000 (100.000)	Top5: 100.000 (100.000)
+[03/29 14:53:44] Two_steamsModel INFO: Test: [100/383]	Batch-Time: 1.681 (1.668)	Loss: 0.1195 (0.7071)	Top1: 92.857 (86.634)	Top5: 100.000 (97.171)
+[03/29 14:56:32] Two_steamsModel INFO: Test: [200/383]	Batch-Time: 1.709 (1.676)	Loss: 0.0000 (1.2580)	Top1: 100.000 (83.156)	Top5: 100.000 (92.999)
+[03/29 14:59:20] Two_steamsModel INFO: Test: [300/383]	Batch-Time: 1.651 (1.677)	Loss: 0.4487 (1.0043)	Top1: 85.714 (85.382)	Top5: 100.000 (94.542)
+[03/29 15:01:38] Two_steamsModel INFO: Video-level Total-acc: 0.94077	
+[03/29 15:01:38] Two_steamsModel INFO: Video-level Class-acc: [0.933 1.    0.533 0.867 1.    0.929 0.923 1.    1.    1.    1.    0.786
+ 0.933 1.    1.    1.    0.933 1.    1.    1.   ]
