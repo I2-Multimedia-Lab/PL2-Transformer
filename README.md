@@ -12,6 +12,7 @@ cd modules
 python setup.py install
 ```
 ## Core codes will coming soon.
+Some core codes will coming soon after this paper is accepted.
 ## Datasets
 🌱MSR Thanks to this author (https://github.com/xingyul/meteornet) for providing us with data preprocessing code.
 
