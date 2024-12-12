@@ -11,8 +11,8 @@ Compile the CUDA layers for [PointNet++](http://arxiv.org/abs/1706.02413), which
 cd modules
 python setup.py install
 ```
-
-
+## Visualization of 4D Semantic Segmentation
+![visualization](https://github.com/I2-Multimedia-Lab/PL2-Transformer/blob/main/experiments_synthia_visualizationV3.jpg)
 ## Related Repos
 
 1. PointNet++ PyTorch implementation: https://github.com/facebookresearch/votenet/tree/master/pointnet2
