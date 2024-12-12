@@ -11,7 +11,7 @@ Compile the CUDA layers for [PointNet++](http://arxiv.org/abs/1706.02413), which
 cd modules
 python setup.py install
 ```
-## Core code is coming soon.
+## Core codes will coming soon.
 ## Datasets
 MSR Thanks to this author (https://github.com/xingyul/meteornet) for providing us with data preprocessing code.
 
