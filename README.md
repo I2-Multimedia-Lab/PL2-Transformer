@@ -14,8 +14,14 @@ python setup.py install
 ## Core codes will coming soon.
 Some core codes will coming soon after this paper is accepted.
 ## Datasets
-🌱MSR Thanks to this author (https://github.com/xingyul/meteornet) for providing us with data preprocessing code.
-
+🌱The MSR dataset encompasses 20 actions, a total of 23K frames. Thanks to this author (https://github.com/xingyul/meteornet) for providing us with data preprocessing code.
+(about 800M)
+🌱The NTU RGB+D 60 dataset encompasses 60 actions, a total of 4M frames. Thanks to this author (https://github.com/hehefan/Point-Spatio-Temporal-Convolution) for providing us with data preprocessing code.
+(about 800G)
+🌱The Synthia 4D dataset. Synthia 4D is a synthetic dataset for outdoor autonomous driving. Thanks to this author (https://github.com/hehefan/P4Transformer) for providing us with data preprocessing code.
+(about 5G)
+🌱The NVgesture dataset. Thanks to this author (https://github.com/JohnsonSign/MaST-Pre) for providing us with data preprocessing code.
+(about 10G)
 ## Train
 🤗Lets train the model!
 ### Train medium model
