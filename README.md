@@ -8,7 +8,17 @@ The code is tested with Red Hat Enterprise Linux Workstation release 7.7 (Maipo)
 
 Compile the CUDA layers for [PointNet++](http://arxiv.org/abs/1706.02413), which we used for furthest point sampling (FPS) and radius neighbouring search:
 ```
-mv modules-pytorch-1.4.0/modules-pytorch-1.8.1 modules
 cd modules
 python setup.py install
 ```
+
+
+## Related Repos
+
+1. PointNet++ PyTorch implementation: https://github.com/facebookresearch/votenet/tree/master/pointnet2
+2. Transformer: https://github.com/lucidrains/vit-pytorch
+3. P4Transformer: [https://github.com/hehefan/P4Transformer](https://github.com/hehefan/P4Transformer)
+
+## Acknowledgement
+
+We thank the authors of [P4transformer](https://github.com/hehefan/P4Transformer) for their interesting work.
