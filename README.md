@@ -5,7 +5,7 @@
 ## Installation
 
 The code is tested with Red Hat Enterprise Linux Workstation release 7.7 (Maipo), g++ (GCC) 8.3.1, PyTorch v1.8.1, CUDA 10.2 and cuDNN v7.6.
-
+Device : 2 × RTX 2080Ti (22G)
 Compile the CUDA layers for [PointNet++](http://arxiv.org/abs/1706.02413), which we used for furthest point sampling (FPS) and radius neighbouring search:
 ```
 cd modules
