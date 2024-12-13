@@ -12,7 +12,7 @@ cd modules
 python setup.py install
 ```
 ## Core codes will coming soon.
-Some core codes will coming soon after this paper is accepted.
+Some core codes will coming soon after paper accepted (NTU Syn NVg).
 ## Datasets
 🌱The MSR dataset encompasses 20 actions, a total of 23K frames. Thanks to this author [Meteornet](https://github.com/xingyul/meteornet) for providing us with data preprocessing code.
 (about 800M)  
