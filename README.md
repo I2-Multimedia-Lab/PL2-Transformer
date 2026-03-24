@@ -53,22 +53,15 @@ python train-msr-full.py
 
 💡We thank the authors of [P4transformer](https://github.com/hehefan/P4Transformer) and [PST-Transformer](https://github.com/hehefan/PST-Transformer) for their interesting work.
 
-## 
-@inproceedings{10.1145/3769748.3773341,
-author = {Zuo, Zhi and Gao, Pan and Paul, Manoranjan},
-title = {Point Long-Term Locality-Aware Transformer for Point Cloud Video Understanding},
-year = {2025},
-isbn = {9798400722479},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3769748.3773341},
-doi = {10.1145/3769748.3773341},
-abstract = {Point cloud videos are widely applied in understanding 3D dynamic objects and scenes. However, a key challenge lies in effectively modeling inter-frame motion and capturing long-term dependencies within local regions. To this end, we propose the Point Long-term Locality-aware Transformer (PL2-Transformer) to address these issues. A Point 4D Convolution (4DConv) backbone aggregates short-term spatiotemporal features, while an inter-frame motion embedding module explicitly models frame-to-frame motion. Furthermore, a Long-Term Locality-Aware Transformer (LLT) with a novel attention mechanism captures long-range dependencies across local regions. Experiments on multiple benchmarks show that our method achieves competitive or superior performance compared to state-of-the-art approaches. The code is available at https://github.com/I2-Multimedia-Lab/PL2-Transformer},
-booktitle = {Proceedings of the 7th ACM International Conference on Multimedia in Asia},
-articleno = {3},
-numpages = {8},
-keywords = {point cloud videos, long-term locality-aware transformer},
-location = {
-},
-series = {MMAsia '25 Workshops}
+##  Citation
+
+If you find this work useful, please consider citing:
+
+```bibtex
+@inproceedings{zuo2025pl2transformer,
+  title={Point Long-Term Locality-Aware Transformer for Point Cloud Video Understanding},
+  author={Zuo, Zhi and Gao, Pan and Paul, Manoranjan},
+  booktitle={Proceedings of the 7th ACM International Conference on Multimedia in Asia Workshops (MMAsia '25)},
+  year={2025},
+  doi={10.1145/3769748.3773341}
 }
